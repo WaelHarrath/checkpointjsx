@@ -1,0 +1,25 @@
+
+body{
+  background-color: aqua;
+
+}
+.App{
+  display:flex;
+  flex-direction: column;
+
+}
+.first-section{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.first-section img {
+   width: 720px;
+    height: 700px;
+    margin-bottom: 2%;
+}
+.second-section{
+  align-self: center;
+  margin-top: 3%;
+}
